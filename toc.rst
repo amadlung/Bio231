@@ -6,6 +6,8 @@
 
    syllabus_schedule.md
    
+   using_R.md
+   
    t-test.md
       
    
